@@ -1,6 +1,6 @@
-# 🧭 Compass Pro - Jetpack Compose
+# N-S-E-W 🧭
 
-A premium, high-precision Compass application built with **Modern Android Development** standards. This app features a stunning **Neumorphic UI**, smooth animations, and real-time sensor data processing using **Kotlin** and **Jetpack Compose**.
+**N-S-E-W** is a premium, high-precision compass application designed for clarity and accuracy. Built with **Jetpack Compose** and **MVVM**, it features a stunning Neumorphic UI that makes finding your direction intuitive and beautiful.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple?logo=kotlin)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material3-blue?logo=jetpackcompose)
