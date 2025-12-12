@@ -18,10 +18,8 @@ A premium, high-precision Compass application built with **Modern Android Develo
 ## 📱 Screenshots
 
 | Light Theme | Dark Theme |
-|:---:|:---:|
-| <img src="screenshots/light.png" alt="Light Mode" width="250"/> | <img src="screenshots/dark.png" alt="Dark Mode" width="250"/> |
 
-*(Note: Add your screenshots in a folder named `screenshots`)*
+<img width="704" height="1472" alt="Generated Image December 12, 2025 - 3_46PM" src="https://github.com/user-attachments/assets/46be2c9a-38c6-4b21-a2b8-9d7e63e89fce" />
 
 ## 🛠 Tech Stack
 
@@ -36,7 +34,8 @@ A premium, high-precision Compass application built with **Modern Android Develo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/compass-pro-compose.git
+    git clone https://github.com/kashifrashee/N-S-E-W.git
+
     ```
 
 2.  **Open in Android Studio:**
